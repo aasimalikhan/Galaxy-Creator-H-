@@ -1,5 +1,5 @@
 # Galaxy Creator
-[Galaxy Creator](https://aasimalikhan.github.io/Galaxy-Creator-H-/)
+[Galaxy Creator](https://aasimalikhan.github.io/Galaxy-Creator-H-/) \n
 A Javascript 3D application where you can make you own custom galaxy.
 
 #Installation
@@ -20,7 +20,7 @@ npm run dev
 The project runs on localhost:8080
 
 #About the Project
- Markup : * After running the project you can see a default galaxy some headings and a gui with controls
+Markup : * After running the project you can see a default galaxy some headings and a gui with controls
           * You can move the galaxy position by clicking and dragging the mouse 
           * You can change the color of the galaxy, count of the stars, spin of the galaxy using the controls in the gui
           * You can take a snapshot of the galaxy that you have created by clicking the download button
