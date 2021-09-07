@@ -9,7 +9,7 @@ Explore the docs »
 
 View Demo · Report Bug · Request Feature
 
-Table of Contents
+Galaxy Creator
 About The Project
 Built With
 Getting Started
