@@ -1,5 +1,5 @@
 # Galaxy Creator
-[Galaxy Creator](https://aasimalikhan.github.io/Galaxy-Creator-H-/) \n
+[Galaxy Creator](https://aasimalikhan.github.io/Galaxy-Creator-H-/) __
 A Javascript 3D application where you can make you own custom galaxy.
 
 # Installation
